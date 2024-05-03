@@ -4,7 +4,7 @@
 
 
 ## Documentation Excel Sheets
-All the test cases and bug reports are listed in excel sheets:
+All the test cases and bug report are listed in excel sheets:
 - [Test Design](https://docs.google.com/spreadsheets/d/1mYsfCEAtE62jh6MnWvH0pzXH7peV9diw/edit#gid=544547466)
 - [Bug Report](https://docs.google.com/spreadsheets/d/1hLPz4-2oxOF5ZPFZHqExA27Fsip2TUYy/edit#gid=578404636)
 
